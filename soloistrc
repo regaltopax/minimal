@@ -6,6 +6,7 @@ recipes:
 - sprout-osx-apps::gotomeeting
 - sprout-osx-apps::lastpass
 - sprout-osx-apps::libreoffice
+- sprout-osx-apps::razolsql
 - sprout-osx-apps::sequelpro
 - sprout-osx-apps::skype
 - sprout-osx-apps::viscosity
